@@ -15,8 +15,5 @@ I utilized Professor Julie Zelenski's dotstar code for the majority of the code 
 
 Some of the display module was made adapted from avishorp@gmail.com's arduino implementation for controlling a display using a tm1637 chip. The link to his code can be found here: https://github.com/avishorp/TM1637/blob/master/TM1637Display.cpp. While a lot of his code utilized functions found in arduino libraries we utilized mango pi libraries to make a port of the code, and then made several functions like start countdown, display num, etc. which was more personalized to our needs. I had used some of the same structure for writing the data to the chip but made my own functions to display numbers.
 
-Demo
-
-
-
+![Project Photo](Photo_1.jpg)
 
