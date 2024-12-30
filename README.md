@@ -6,7 +6,7 @@ Custom Mango Pi Basketball Arcade Game
 Project Description
 
 This is a recreation of the basketball arcade game pop a shot, however it is ran entirely locally off of a mango Pi using its GPIO pins in conjunction with the Stanford CS107e
-mango Pi libraries written by myself and my teammate John Carlson.
+mango Pi libraries written for the class.
 
 Features
 
