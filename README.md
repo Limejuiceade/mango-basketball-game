@@ -17,3 +17,4 @@ Some of the display module was made adapted from avishorp@gmail.com's arduino im
 
 ![Project Photo](Photo_1.jpg)
 
+![Project Gif](demo.gif)
